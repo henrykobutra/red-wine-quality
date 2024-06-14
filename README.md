@@ -7,6 +7,7 @@ This project aims to predict the quality of wine based on various chemical prope
 ## Dataset
 
 The dataset used in this project is the Wine Quality dataset, which includes the following features:
+
 - Fixed acidity
 - Volatile acidity
 - Citric acid
@@ -39,3 +40,26 @@ To run this project locally, you need to have Python installed. Follow the steps
     source venv/bin/activate
 
     ```
+
+3. Install the required dependencies:
+
+    ```sh
+    pip install -r requirements.txt
+    
+    ```
+
+## Usage
+
+1. Start Jupyter Notebook:
+   
+   ```sh
+   jupyter notebook
+
+   ```
+
+2. Open the wine_quality_prediction.ipynb notebook and run the cells to execute the analysis.
+
+## Acknowledgements
+
+- The dataset used in this project is from the UCI Machine Learning Repository.
+- This project was inspired by the need to explore and compare different regression models for predictive analysis.
