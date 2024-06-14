@@ -28,7 +28,7 @@ To run this project locally, you need to have Python installed. Follow the steps
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/yourusername/wine-quality-prediction.git
+   git clone https://github.com/henrykobutra/red-wine-quality.git
    cd wine-quality-prediction
 
     ```
@@ -51,13 +51,13 @@ To run this project locally, you need to have Python installed. Follow the steps
 ## Usage
 
 1. Start Jupyter Notebook:
-   
+
    ```sh
    jupyter notebook
 
    ```
 
-2. Open the wine_quality_prediction.ipynb notebook and run the cells to execute the analysis.
+2. Open the `Redwine ML Model.ipynb` notebook and run the cells to execute the analysis.
 
 ## Acknowledgements
 
